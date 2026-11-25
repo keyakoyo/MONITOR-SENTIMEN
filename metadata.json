@@ -1,0 +1,6 @@
+{
+  "name": "Sentimen Publik",
+  "description": "Dashboard interaktif pemantauan dan analisis sentimen publik secara real-time lintas kanal media sosial dan portal berita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
